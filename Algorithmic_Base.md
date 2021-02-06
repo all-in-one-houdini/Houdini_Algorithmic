@@ -13,3 +13,7 @@
 ### 视频篇
 
 [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
+
+[数字几何处理-中国科学技术大学-傅孝明](https://www.bilibili.com/video/BV1B54y1B7Uc)
+
+[GAMES201：高级物理引擎实战指南2020](https://www.bilibili.com/video/BV1ZK411H7Hc)
