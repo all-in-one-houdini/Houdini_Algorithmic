@@ -3,4 +3,4 @@
 
 # 学习链接
 
-[cgwiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
+* [cgwiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
