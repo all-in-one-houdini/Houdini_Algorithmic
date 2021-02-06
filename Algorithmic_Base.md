@@ -8,7 +8,7 @@
 [计算机图形学的基础算法
 （第 ２ 版）](http://www.ecsponline.com/yz/B885E4E2632C04E93AC0BA68577F4238C000.pdf)
 
-
+[计算机图形学编程之路](https://github.com/douysu/graphics-algorithm)
 
 ### 视频篇
 
