@@ -16,3 +16,5 @@
 
 * [Houdini基础（一）使用点控制物体变换](https://zhuanlan.zhihu.com/p/85410006)
 
+* [houdini文档中英互译](https://www.vfx.ren/houdini/houdini17/index.html)
+
