@@ -6,7 +6,8 @@
 
 * [视效力](https://www.vfxforce.cn/)
 
-* []()
+* [夠 HOUDINI
+](http://www.gohoudini.net/)
 
 * []()
 
