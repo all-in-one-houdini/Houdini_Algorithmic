@@ -14,3 +14,5 @@
 
 * [三角函数,向量,矩阵,在houdini中的简单运用](http://blog.sina.com.cn/s/blog_a8e9c4dd0102w4lb.html)
 
+* [Houdini基础（一）使用点控制物体变换](https://zhuanlan.zhihu.com/p/85410006)
+
