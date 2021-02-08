@@ -12,7 +12,7 @@
 
 [图形学书单](https://github.com/all-in-one-houdini/-)
 
-[虎书第4版](https://www.zhihu.com/column/c_1299028644052824064)
+[虎书第4版](https://www.zhihu.com/column/c_1299028644052824064)——[百度盘](https://yun.baidu.com/s/1gffTg4b)
 
 ### 视频篇
 
