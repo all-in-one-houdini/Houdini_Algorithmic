@@ -12,6 +12,8 @@
 
 [图形学书单](https://github.com/all-in-one-houdini/-)
 
+[虎书第4版](https://www.zhihu.com/column/c_1299028644052824064)
+
 ### 视频篇
 
 [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
