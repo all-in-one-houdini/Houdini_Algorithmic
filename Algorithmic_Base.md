@@ -1,5 +1,11 @@
 # 算法基础
 
+### 论文
+
+[multiress.caltech](www.multires.caltech.edu/pubs/pubs.htm)
+
+### 网站
+
 ### 文档篇
 
 [计算几何与图形学有关的几种常用算法
