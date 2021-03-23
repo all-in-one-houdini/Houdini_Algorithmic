@@ -3,3 +3,6 @@
 
 [算法基础](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithmic_Base)——————[算法实现](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithm_Implementation)
 
+
+### [典型算法](https://github.com/all-in-one-houdini/Houdini_Algorithmic/blob/main/Typical_Algorithm.md)
+
