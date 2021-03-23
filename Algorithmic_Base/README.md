@@ -4,3 +4,5 @@
 
 ## Algebraic surfaces代数表面
 [Algebraic surfaces](https://www.singsurf.org/djep/GWTASurf.php)
+
+##  [WaveFunctionCollapse](https://github.com/all-in-one-houdini/Houdini_Algorithmic/blob/main/Algorithmic_Base/WaveFunctionCollapse.md)
