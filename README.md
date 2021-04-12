@@ -6,5 +6,5 @@
 
 ### [典型算法](https://github.com/all-in-one-houdini/Houdini_Algorithmic/blob/main/Typical_Algorithm.md)
 
-### []()
+### [论文*文章*网站](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithmic_Paper)
 
