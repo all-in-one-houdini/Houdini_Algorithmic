@@ -26,3 +26,5 @@
 # [效果系列](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithm_Implementation/vfx_series)
 
 # [数学相关](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithm_Implementation/vfx_maths)
+
+# [self](https://github.com/all-in-one-houdini/Houdini_Algorithmic/tree/main/Algorithm_Implementation/self)
