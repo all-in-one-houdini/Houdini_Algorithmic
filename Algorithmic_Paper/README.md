@@ -5,3 +5,5 @@
 [3d-meier](http://www.3d-meier.de)
 
 [algorithmicbotany](http://algorithmicbotany.org/papers/#papers)
+
+[matthias-research](https://matthias-research.github.io/pages/publications/publications.html)
