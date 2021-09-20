@@ -18,6 +18,8 @@
 
 * [columbia](http://www.cs.columbia.edu/cg/pubs.php)
 
+* [dreamworks](https://research.dreamworks.com/research-library/)
+
 # who个人
 
 * [yunfei](http://yunfei.work/)
@@ -27,3 +29,5 @@
 * [jteran](https://www.math.ucla.edu/~jteran/papers/)
 
 * [yonghao](http://www.cg.it.aoyama.ac.jp/yonghao/)
+
+* [sifakis](http://pages.cs.wisc.edu/~sifakis/)
