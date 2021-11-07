@@ -6,4 +6,7 @@
 - 4. [WFC DUNGEON GENERATOR](https://www.sidefx.com/tutorials/wfc-dungeon-generator/)----[bilibili](https://www.bilibili.com/video/BV1E64y1T7ZS)
 - 5. [wfc_houdini](https://github.com/all-in-one-houdini/wfc_houdini)
 - 6. [Implementation of Wave Function Collapse Algorithm in Houdini for 3D Content Generation](https://chloesun.medium.com/implementation-of-wave-function-collapse-algorithm-in-houdini-for-3d-content-generation-76f8eec573b1)
+- 7. [Procedural Generation of Scenes with WFC in Houdini and UE4](https://choe.moe/?p=70)
+- 8. [wfc-level-generation](https://www.sidefx.com/contentlibrary/wfc-level-generation/)
+
 
